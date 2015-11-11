@@ -12,7 +12,7 @@ public class HelloWorld {
                      
           
         try {
-            System.out.println("Hello San Diego");  
+            System.out.println("Hello Telesis Court!");  
         }
         catch (Exception e) {
             System.out.println("Failure to communicate!");    
